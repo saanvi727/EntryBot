@@ -1,0 +1,11 @@
+{
+    "inputMint": "SOL",
+    "outputMint": "USDC",
+    "amount": 0.001,
+    "autoSlippage": true,
+    "autoSlippageCollisionUsdValue": 1000,
+    "maxAutoSlippageBps": 1000,
+    "minimizeSlippage": true,
+    "onlyDirectRoutes": false,
+    "asLegacyTransaction": false
+  }
